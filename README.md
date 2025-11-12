@@ -39,6 +39,8 @@ To contribute to any project:
 If you encounter any issues, need assistance, or have questions about any project in this repository, please contact:
 
 **People Analytics Team**: dl_people_analytics@aa.com
+**Muthukumar Murugan**: muthukumar.murugan@aa.com
+**Raphael Jeong Hin Chin**: jeonghin.chin@aa.com
 
 ## Contributing
 
